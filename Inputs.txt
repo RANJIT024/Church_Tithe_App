@@ -1,0 +1,21 @@
+When we keep the cover in the scanner, it should recognize 
+1. Members ship ID as 559.
+2. It should take the data from the backend and show the name and address. 
+3. If it matches, it has to read the month printed April 
+4. Amount have to be read and must show total amount 
+5. Read Rs. Denomination from next page.
+6. Both page 1 and 2 should match then save.
+7. SMS to be send to the phone number( Transaction sms)
+Reports 
+1. Total collection cover number wise 
+2. Headwise total.
+Search 
+1. Cover number should show members details 
+2. Name should show members details 
+3. Members monthly collect details 
+4. Members yearly collection details 
+5. Headwise weekly/monthly collection 
+6. Total collection weekly/monthly collection 
+7. Membership details printout.
+New membership to be added 
+Old membership data to be read from Excel sheet ( collected from gform)
